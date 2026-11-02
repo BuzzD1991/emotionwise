@@ -7,7 +7,7 @@ import streamlit as st
 # st.set_page_config NICHT erneut aufrufen.
 
 st.set_page_config(
-    page_title="SOKO-L³ – Fortbildung Sozial-emotionale Kompetenzen",
+    page_title="EmotionWise – Fortbildung zum Thema sozial-emotionale Kompetenzen",
     page_icon="🌱",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -34,10 +34,10 @@ pages = {
 }
 
 with st.sidebar:
-    st.markdown("### SOKO-L³")
+    st.markdown("### EmotionWise")
     st.caption(
-        "Lehrkräftefortbildung Sozial-emotionale Kompetenzen · "
-        "IKOM ÜL im Rahmen des Startchancen-Programms"
+        "Lehrkräftefortbildung zum Thema sozial-emotionale Kompetenzen · "
+        "Ein Angebot des interdisziplinären Kompetenzzentrums überfachliches Lernen im Rahmen des Startchancen-Programms"
     )
     st.divider()
 
