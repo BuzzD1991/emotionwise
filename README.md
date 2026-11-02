@@ -1,4 +1,4 @@
-# SOKO-L³ – Website zur Lehrkräftefortbildung
+# Website zur Lehrkräftefortbildung EmotionWise
 
 ## Struktur
 
