@@ -8,7 +8,7 @@ inject_css()
 # HERO
 # =============================================================================
 
-st.title("SOKO-L³ | Lehrkräftefortbildung Sozial-emotionale Kompetenzen")
+st.title("EmotionWise | Lehrkräftefortbildung zum Thema sozial-emotionale Kompetenzen")
 
 st.markdown(
     """
